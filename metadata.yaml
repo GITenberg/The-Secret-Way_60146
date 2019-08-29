@@ -1,5 +1,8 @@
 _repo: The-Secret-Way_60146
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60146-h/images/cover.jpg
 creator:
   author:
     agent_name: Gale, Zona
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3531
     wikipedia: http://en.wikipedia.org/wiki/Zona_Gale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60146#The-Secret-Way
 gutenberg_issued: '2019-08-21'
 gutenberg_type: Text
 identifiers:
